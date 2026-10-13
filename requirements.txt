@@ -1,0 +1,10 @@
+torch
+pandas
+numpy
+rdkit
+scikit-learn
+Pillow
+openpyxl
+tqdm
+networkx
+pyarrow
