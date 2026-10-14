@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-"""Run Conformerity from this folder.
+"""Run Conformaty from this folder.
 
     python main.py align -t test_cases/01_structural_alignment/cyclohexane_chair.xyz -q test_cases/01_structural_alignment/cyclohexane_boat.xyz
     python main.py pair -t test_cases/03_ring_numbering/stage_order_ref.xyz -q test_cases/03_ring_numbering/stage_order_query.xyz

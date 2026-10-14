@@ -1,4 +1,4 @@
-"""Command-line interface for Conformerity."""
+"""Command-line interface for Conformaty."""
 
 import argparse
 import sys

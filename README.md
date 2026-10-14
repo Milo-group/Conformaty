@@ -1,4 +1,4 @@
-# Conformerity
+# Conformaty
 
 Align two molecular structures and renumber the query atoms to match a reference.
 
